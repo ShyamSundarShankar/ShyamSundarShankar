@@ -26,11 +26,13 @@ My current specialization includes **Minnesota home care and HCBS agencies**, wi
 
 ## 🎯 Problems I focus on
 
-<table>
+Four connected capabilities, applied to real healthcare operational challenges.
+
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 💳 Revenue Cycle
+### 💳 Revenue Cycle & Billing
 
 **Protect revenue. Reduce rework.**
 
@@ -41,7 +43,7 @@ My current specialization includes **Minnesota home care and HCBS agencies**, wi
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ Automation & AI
+### ⚙️ Workflow Automation & AI
 
 **Less repetitive work. Better controls.**
 
@@ -54,7 +56,7 @@ My current specialization includes **Minnesota home care and HCBS agencies**, wi
 <tr>
 <td width="50%" valign="top">
 
-### 🧩 Product Development
+### 🧩 Healthcare Product Development
 
 **Turn operational problems into tools.**
 

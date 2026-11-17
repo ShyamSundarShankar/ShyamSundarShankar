@@ -26,9 +26,7 @@ Today, my focus includes **Minnesota home care and HCBS organizations** supporti
 
 ## 📈 Selected results
 
-| Denial rate improvement | Annual savings cited | Bots deployed | Manual hours saved |
-|:---:|:---:|:---:|:---:|
-| **~8% → ~1%** | **$200K+** | **275+** | **84K+** |
+<img src="./assets/selected-results.svg" alt="Selected results: denial rate improvement from approximately 8 percent to 1 percent, $200K+ annual savings cited, 275+ bots, and 84K+ manual hours saved" width="100%" />
 
 <sub>Denial and annual savings figures are stated in my LinkedIn headline. Bot and hours totals aggregate reported outcomes across three historical RPA roles; they are not annual totals.</sub>
 

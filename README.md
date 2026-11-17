@@ -26,75 +26,21 @@ Today, my focus includes **Minnesota home care and HCBS organizations** supporti
 
 ## 📈 Selected results
 
-<table width="100%">
-<tr>
-<td align="center" width="25%"><h3>~8% → ~1%</h3><sub>Denial rate improvement*</sub></td>
-<td align="center" width="25%"><h3>$200K+</h3><sub>Annual savings cited*</sub></td>
-<td align="center" width="25%"><h3>275+</h3><sub>Bots across three RPA roles</sub></td>
-<td align="center" width="25%"><h3>84K+</h3><sub>Manual hours saved across those roles</sub></td>
-</tr>
-</table>
+| Denial rate improvement | Annual savings cited | Bots deployed | Manual hours saved |
+|:---:|:---:|:---:|:---:|
+| **~8% → ~1%** | **$200K+** | **275+** | **84K+** |
 
-<sub>*Figures reported in my LinkedIn profile. Bot and hours figures are the sum of role-level achievements listed for MBW RCM and two AGS Health positions; they are historical, not annual totals.</sub>
-
-<br>
+<sub>Denial and annual savings figures are stated in my LinkedIn headline. Bot and hours totals aggregate reported outcomes across three historical RPA roles; they are not annual totals.</sub>
 
 ## 🎯 Problems I focus on
 
-Four connected capabilities, applied to real healthcare operational challenges.
+Four connected capabilities applied to healthcare operational challenges.
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 💳 Revenue Cycle & Billing
-
-**Protect revenue. Reduce rework.**
-
-- Denial analysis and root-cause tracking
-- Claims, eligibility and payment workflows
-- Pre-billing checks and exception management
-
-</td>
-<td width="50%" valign="top">
-
-### ⚙️ Workflow Automation & AI
-
-**Less repetitive work. Better controls.**
-
-- RPA across payer portals and EHRs
-- Claim status, posting and document workflows
-- AI-assisted processes with human review
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧩 Healthcare Product Development
-
-**Turn operational problems into tools.**
-
-- Translate operations into product requirements
-- Design scalable workflows and tools
-- Prototype practical healthcare solutions
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 Analytics & Operations
-
-**Make work and outcomes visible.**
-
-- Denial, inventory and productivity insights
-- Executive KPI dashboards and scorecards
-- SOPs, RACI and performance measurement
-
-</td>
-</tr>
-</table>
-
-<br>
+| 💳 Revenue Cycle & Billing | ⚙️ Workflow Automation & AI |
+|:---|:---|
+| **Protect revenue. Reduce rework.**<br><br>• Denial analysis and root-cause tracking<br>• Claims, eligibility and payment workflows<br>• Pre-billing checks and exception management | **Less repetitive work. Better controls.**<br><br>• RPA across payer portals and EHRs<br>• Claim status, posting and document workflows<br>• AI-assisted processes with human review |
+| **🧩 Healthcare Product Development** | **📊 Analytics & Operations** |
+| **Turn operational problems into tools.**<br><br>• Translate operations into product requirements<br>• Design scalable workflows and tools<br>• Prototype practical healthcare solutions | **Make work and outcomes visible.**<br><br>• Denial, inventory and productivity insights<br>• Executive KPI dashboards and scorecards<br>• SOPs, RACI and performance measurement |
 
 ## 🧭 Experience behind the work
 

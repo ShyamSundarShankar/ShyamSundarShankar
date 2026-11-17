@@ -4,8 +4,8 @@
 
 **Helping home health agencies reduce revenue leakage, manual work and operational friction.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-FFD43B?style=for-the-badge&logo=linkedin&logoColor=000000)](https://www.linkedin.com/in/shyamsundarshankar)
-[![Email](https://img.shields.io/badge/Email-Contact-FFD43B?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:shyam.dragon89@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-FFF500?style=for-the-badge&logo=linkedin&logoColor=000000)](https://www.linkedin.com/in/shyamsundarshankar)
+[![Email](https://img.shields.io/badge/Email-Contact-FFF500?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:shyam.dragon89@gmail.com)
 [![Repositories](https://img.shields.io/badge/GitHub-Projects-FFFFFF?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/ShyamSundarShankar?tab=repositories)
 
 </div>
@@ -52,7 +52,7 @@
 
 <img src="./assets/footer.svg" alt="Build better healthcare workflows" width="100%" />
 
-[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-FFD43B?style=for-the-badge&logo=linkedin&logoColor=000000)](https://www.linkedin.com/in/shyamsundarshankar)
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-FFF500?style=for-the-badge&logo=linkedin&logoColor=000000)](https://www.linkedin.com/in/shyamsundarshankar)
 [![Send an Email](https://img.shields.io/badge/Send_an_Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:shyam.dragon89@gmail.com)
 
 </div>

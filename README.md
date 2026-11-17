@@ -2,9 +2,9 @@
 
 <img width="100%" alt="Shyam Sundar Shankar — Healthcare Technology Consultant" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0B1220,50:123A52,100:16A6A0&text=Shyam%20Sundar%20Shankar&fontColor=FFFFFF&fontSize=38&fontAlignY=38&desc=Healthcare%20Technology%20%7C%20Automation%20%7C%20Product%20Development&descSize=16&descAlignY=60&animation=fadeIn" />
 
-### Making healthcare operations simpler, smarter, and more reliable.
+### Helping home health agencies reduce revenue leakage, manual work & operational friction.
 
-**Independent Healthcare Consultant** &nbsp;•&nbsp; **10+ Years of Experience** &nbsp;•&nbsp; **Home Care & HCBS Focus**
+**Revenue Cycle & Automation Consultant** &nbsp;•&nbsp; **Healthcare Operations** &nbsp;•&nbsp; **Home Care & HCBS**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ShyamSundarShankar)
 [![Email](https://img.shields.io/badge/Email-Get_in_Touch-146C76?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shyam.dragon89@gmail.com)
@@ -16,11 +16,26 @@
 
 ## 👋 About me
 
-I help healthcare organizations **reduce manual work, address revenue leakage, and improve operational workflows** through practical applications of **automation, analytics, AI, and product development**.
+I’m **Shyam Sundar Shankar**, a healthcare revenue cycle and automation consultant. I help home health agencies simplify billing, reduce operational friction, and build repeatable systems across people, processes, and technology.
 
-With **10+ years across healthcare providers, physician groups, hospitals, software firms, medical billing companies, and medico-legal organizations**, I work at the intersection of operations and technology.
+My background spans **healthcare analytics, revenue cycle operations, RPA development, automation leadership, and product thinking**. I have built reporting workflows, developed automation solutions across EHRs and payer portals, and led teams connecting operational insights to automation priorities.
 
-My current specialization includes **Minnesota home care and HCBS agencies**, with particular attention to administrative processes, billing readiness, and compliance workflows for **245D, PCA, and CFSS** services.
+Today, my focus includes **Minnesota home care and HCBS organizations** supporting **245D, PCA/CFSS, and assisted living** workflows.
+
+<br>
+
+## 📈 Selected results
+
+<table width="100%">
+<tr>
+<td align="center" width="25%"><h3>~8% → ~1%</h3><sub>Denial rate improvement*</sub></td>
+<td align="center" width="25%"><h3>$200K+</h3><sub>Annual savings cited*</sub></td>
+<td align="center" width="25%"><h3>275+</h3><sub>Bots across three RPA roles</sub></td>
+<td align="center" width="25%"><h3>84K+</h3><sub>Manual hours saved across those roles</sub></td>
+</tr>
+</table>
+
+<sub>*Figures reported in my LinkedIn profile. Bot and hours figures are the sum of role-level achievements listed for MBW RCM and two AGS Health positions; they are historical, not annual totals.</sub>
 
 <br>
 
@@ -36,9 +51,9 @@ Four connected capabilities, applied to real healthcare operational challenges.
 
 **Protect revenue. Reduce rework.**
 
-- Pre-billing readiness and validation
-- Claims workflow improvements
-- Exception identification and tracking
+- Denial analysis and root-cause tracking
+- Claims, eligibility and payment workflows
+- Pre-billing checks and exception management
 
 </td>
 <td width="50%" valign="top">
@@ -47,9 +62,9 @@ Four connected capabilities, applied to real healthcare operational challenges.
 
 **Less repetitive work. Better controls.**
 
-- Workflow and process automation
-- AI-assisted administrative operations
-- Human-in-the-loop review processes
+- RPA across payer portals and EHRs
+- Claim status, posting and document workflows
+- AI-assisted processes with human review
 
 </td>
 </tr>
@@ -60,9 +75,9 @@ Four connected capabilities, applied to real healthcare operational challenges.
 
 **Turn operational problems into tools.**
 
-- Product discovery and requirements
-- Workflow-first prototyping
-- Practical healthcare software solutions
+- Translate operations into product requirements
+- Design scalable workflows and tools
+- Prototype practical healthcare solutions
 
 </td>
 <td width="50%" valign="top">
@@ -71,13 +86,26 @@ Four connected capabilities, applied to real healthcare operational challenges.
 
 **Make work and outcomes visible.**
 
-- Operational dashboards and reporting
-- Bottleneck and exception analysis
-- Process standardization and measurement
+- Denial, inventory and productivity insights
+- Executive KPI dashboards and scorecards
+- SOPs, RACI and performance measurement
 
 </td>
 </tr>
 </table>
+
+<br>
+
+## 🧭 Experience behind the work
+
+| Experience | Selected contributions |
+|:--|:--|
+| **MBW RCM · RPA & Analytics Leadership** | Built an integrated automation and analytics department; led five people; reported 100+ bots, 33K+ hours saved and ~$65K savings |
+| **AGS Health · RPA Team Leadership** | Led eight developers working across AR, charge posting and payment posting; reported 100+ bots and 16K+ hours saved |
+| **AGS Health · RPA Development** | Developed 75+ bots, including appeal-letter and refund-packet automation; reported 35K+ hours saved |
+| **AGS Health · Analytics & MIS** | Built operational dashboards and automated reporting; reported more than 40% reduction in manual reporting time |
+
+<sub>Selected historical roles and reported outcomes from my LinkedIn profile; this is not a complete employment history.</sub>
 
 <br>
 
@@ -153,7 +181,7 @@ Measure results and improve
 
 ### Let's build better healthcare workflows.
 
-I welcome conversations around healthcare operations, RCM, automation, analytics, and product development.
+I work with healthcare teams on revenue cycle improvement, process automation, operational analytics, and practical product development.
 
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ShyamSundarShankar)
 [![Send an Email](https://img.shields.io/badge/Send_an_Email-146C76?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shyam.dragon89@gmail.com)

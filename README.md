@@ -36,11 +36,7 @@ Today, my focus includes **Minnesota home care and HCBS organizations** supporti
 
 Four connected capabilities applied to healthcare operational challenges.
 
-| 💳 Revenue Cycle & Billing | ⚙️ Workflow Automation & AI |
-|:---|:---|
-| **Protect revenue. Reduce rework.**<br><br>• Denial analysis and root-cause tracking<br>• Claims, eligibility and payment workflows<br>• Pre-billing checks and exception management | **Less repetitive work. Better controls.**<br><br>• RPA across payer portals and EHRs<br>• Claim status, posting and document workflows<br>• AI-assisted processes with human review |
-| **🧩 Healthcare Product Development** | **📊 Analytics & Operations** |
-| **Turn operational problems into tools.**<br><br>• Translate operations into product requirements<br>• Design scalable workflows and tools<br>• Prototype practical healthcare solutions | **Make work and outcomes visible.**<br><br>• Denial, inventory and productivity insights<br>• Executive KPI dashboards and scorecards<br>• SOPs, RACI and performance measurement |
+<img src="./assets/capabilities.svg" alt="Four areas of focus: revenue cycle and billing, workflow automation and AI, healthcare product development, and analytics and operations" width="100%" />
 
 ## 🧭 Experience behind the work
 
